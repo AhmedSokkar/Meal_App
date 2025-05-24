@@ -1,2 +1,16 @@
-# Meal_App
-This app contains recipes for dishes from various countries. It includes a filter feature to help you choose the types of food you want, and there's also a section for your favorite recipes so you can save the ones you like.
+# meal_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
